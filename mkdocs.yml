@@ -1,5 +1,5 @@
 # À modifier avec le nom et la description du site
-site_name: "Modèle de site avec Python"
+site_name: "NSI"
 site_description: Un modèle avec mkdocs
 
 # À modifier, avec votre nom et la licence choisie
@@ -12,7 +12,7 @@ copyright: |
 extra:
     social:
         - icon: fontawesome/regular/envelope
-          link: mailto:votre.mail@ac-academie.fr
+          link: mailto:JOrfila@ac-toulouse.fr
           name: Écrire à l'auteur
         - icon: fontawesome/brands/gitlab
           link: !ENV [CI_PROJECT_ROOT_NAMESPACE]
