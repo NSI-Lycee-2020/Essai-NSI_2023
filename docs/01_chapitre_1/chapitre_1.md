@@ -14,7 +14,7 @@ Texte 1.1
 ### 2. Sous paragraphe 2
 
 Texte 1.2
-!!! note
+!!! Question
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
